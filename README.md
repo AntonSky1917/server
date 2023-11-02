@@ -1,4 +1,4 @@
-# client
+# server
 
 Chat written on Qt6 with PostgreSQL16
 
